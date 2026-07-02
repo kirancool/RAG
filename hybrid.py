@@ -15,7 +15,7 @@ import uuid
 load_dotenv()
 
 # Config
-PINECONE_API_KEY = "pcsk_jeFvN_TTahaLUnKTGvmqmDZpL2Q7nbXQKoBWEZKwdB3RhBm1cWh97EEo3LaDmyT8uRLpF"
+PINECONE_API_KEY = ""
 PINECONE_ENV = "us-east-1"
 INDEX_NAME =  "kiran-app"
 EMBED_MODEL = "sentence-transformers/all-MiniLM-L6-v2"
